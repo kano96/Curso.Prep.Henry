@@ -1,0 +1,29 @@
+h1{
+    color: dodgerblue;
+}
+img{
+    width: 400px;
+}
+ul{
+    list-style:none;
+}
+.divClass{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: gainsboro;
+    padding: 50px;
+    border: khaki ;
+    display: flex;
+    justify-items: center;
+    place-items: center;
+    justify-self: center;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
