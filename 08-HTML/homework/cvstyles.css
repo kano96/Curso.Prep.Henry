@@ -1,0 +1,28 @@
+body{
+    background-color: indigo;
+    color: ivory;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#hero{
+    margin: 50px;
+}
+
+#educacion{
+    margin: 50px;
+}
+#portfolio{
+    margin: 50px;
+}
+#skills{
+    margin: 50px;
+}
+#hobbies{
+    margin: 50px;
+}
+#footer{
+    margin: 50px;
+}
